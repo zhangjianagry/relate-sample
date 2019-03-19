@@ -127,7 +127,6 @@ groups:
 -
     id: quiz_tail
     shuffle: True
-    max_page_count: 2
     pages:
 
     -
