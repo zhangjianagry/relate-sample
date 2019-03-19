@@ -51,7 +51,7 @@ rules:
     -
         permissions: []
 
-    grade_identifier: exam_1
+    grade_identifier: exam_test
     grade_aggregation_strategy: max_grade
 
     grading:
