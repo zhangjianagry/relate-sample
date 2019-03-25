@@ -70,7 +70,7 @@ groups:
             </video>
     -
         type: Page
-        Week1_Animals_page2
+        id : Week1_Animals_page2
         content: |
             -
                 {{ indented_include("questions/complex-text-match-example.yml", 12) }}
