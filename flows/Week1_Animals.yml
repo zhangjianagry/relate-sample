@@ -92,11 +92,10 @@ groups:
     -
         type : Page
         id : Week1_Animals_page5
-        completion_text: |
+        content: |
 
             # See you in class!
-
-            Thanks for completing the quiz.
+            Thanks for completing the courses.
     
 
 
