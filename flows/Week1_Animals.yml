@@ -61,7 +61,7 @@ groups:
         content: |
             #Some videos about Animals
             There is a video about cat
-            <img src="repo:video/cs101/week1/classroom.jpeg">
+            <img src="repo:images/cat.jpeg">
             <img src="repo:images/classroom.jpeg">
             <video id="catVideo" class="video-js vjs-default-skin"
               controls preload="auto" width="800" height="600"
