@@ -76,7 +76,7 @@ groups:
         id : Week1_Animals_page3
         content: |
             #Some videos about Animals
-            There is a video about wolf
+            There is a video about cat
             <video id="wolfVideo" class="video-js vjs-default-skin"
               controls preload="auto" width="800" height="600"
               poster="/video/cs101/week1/wolf.jpg"
