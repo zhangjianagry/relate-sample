@@ -15,6 +15,12 @@ chunks:
     content: |
 
         # Hi there!
+        This is just a tutorial for exhibition.
+        
+        [Regular videos and quizzes.](staticpage:videoCourses)
+        
+        [Exams]()
+
 
         Check out the [linear algebra recap](flow:quiz-test). Do it now. Do it.
 
