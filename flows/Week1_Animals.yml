@@ -7,7 +7,7 @@
 # separate files. This is optional, but conceivably useful.
 {% from "yaml-macros.yml" import indented_include %}
 
-title: "RELATE Test Quiz"
+title: "cs101_Week1"
 
 # The "|" character introduces a 'block literal', which means all text indented below
 # it is taken literally. The description property holds text marked up with 'Markdown'.
@@ -16,7 +16,7 @@ title: "RELATE Test Quiz"
 # So the '#' character below introduces a first-level headline (not a comment).
 description: |
 
-    # RELATE Test Quiz
+    # CS101_WEEK1
 
 rules:
     start:
@@ -36,7 +36,7 @@ rules:
         message: "Welcome! This message is brought to you by the access rules."
         permissions: [view, submit_answer, end_session, see_correctness, see_answer_after_submission]
 
-    grade_identifier: la_quiz
+    grade_identifier: CS101_WEEK1
     grade_aggregation_strategy: use_latest
 
     grading:
