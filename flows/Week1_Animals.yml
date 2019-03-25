@@ -53,7 +53,6 @@ groups:
         content: |
 
             # Welcome to the Week1 for RELATE!
-
             Welcome to the Week1 for RELATE! This is materials about Animals.
     -
         type: Page
@@ -65,27 +64,4 @@ groups:
               poster="https://course.vlab-sapcloudplatformdev.cn/course/course0/f/video/cs101/week1/cat.jpeg"
               data-setup='{"playbackRates": [1, 1.3, 1.6, 2, 4]}'>
               <source src="/course/course0/f/video/cs101/week1/cat.mp4" type='video/mp4' />
-              <p class="vjs-no-js">To view this video please enable JavaScript, and consider upgrading to a web browser that <a href="http://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a></p>
             </video>
-    -
-        {{ indented_include("questions/complex-text-match-example.yml", 8) }}
-    -
-        type: Page
-        id : Week1_Animals_page3
-        content: |
-            #Some videos about animals
-           <video id="wolfVideo" class="video-js vjs-default-skin"
-              controls preload="auto" width="800" height="600"
-              poster="https://course.vlab-sapcloudplatformdev.cn/course/course0/f/video/cs101/week1/wolf.jpeg"
-              data-setup='{"playbackRates": [1, 1.3, 1.6, 2, 4]}'>
-              <source src="/course/course0/f/video/cs101/week1/wolf.mp4" type='video/mp4' />
-              <p class="vjs-no-js">To view this video please enable JavaScript, and consider upgrading to a web browser that <a href="http://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a></p>
-            </video>
-    -
-        {{ indented_include("questions/non-ascii-choices.yml", 8) }}
-    -
-        type : Page
-        id : Week1_Animals_page5
-        content: |
-            # See you in class!
-            Thanks for completing the courses.
