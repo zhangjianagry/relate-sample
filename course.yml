@@ -19,7 +19,7 @@ chunks:
         
         [Regular videos and quizzes.](staticpage:videoCourses)
         
-        [Exams]()
+        [Exams](flow:quiz-test)
 
 
         Check out the [linear algebra recap](flow:quiz-test). Do it now. Do it.
