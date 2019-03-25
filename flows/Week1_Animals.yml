@@ -72,8 +72,10 @@ groups:
         type: Page
         Week1_Animals_page2
         content: |
-            {{ indented_include("questions/complex-text-match-example.yml", 12) }}
-            {{ indented_include("questions/symbolic-expression-example.yml", 12) }}
+            -
+                {{ indented_include("questions/complex-text-match-example.yml", 12) }}
+            -
+                {{ indented_include("questions/symbolic-expression-example.yml", 12) }}
     -
         type: Page
         id : Week1_Animals_page3
