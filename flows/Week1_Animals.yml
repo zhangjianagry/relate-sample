@@ -59,12 +59,11 @@ groups:
         id : Week1_Animals_page1
         content: |
             #Some videos about Animals
-            <img src="repocur:images/classroom.jpeg">
             <video id="catVideo" class="video-js vjs-default-skin"
               controls preload="auto" width="800" height="600"
-              poster="https://course.vlab-sapcloudplatformdev.cn/course/course0/f/video/cs101/week1/cat.jpeg"
+              poster="https://course.vlab-sapcloudplatformdev.cn/course/course1/f/video/cs101/week1/cat.jpeg"
               data-setup='{"playbackRates": [1, 1.3, 1.6, 2, 4]}'>
-              <source src="/course/course0/f/video/cs101/week1/cat.mp4" type='video/mp4' />
+              <source src="/course/course1/f/video/cs101/week1/cat.mp4" type='video/mp4' />
             </video>
     -
         {{ indented_include("questions/complex-text-match-example.yml", 8) }}
@@ -75,9 +74,9 @@ groups:
             #Some videos about animals
             <video id="wolfVideo" class="video-js vjs-default-skin"
               controls preload="auto" width="800" height="600"
-              poster="https://course.vlab-sapcloudplatformdev.cn/course/course0/f/video/cs101/week1/wolf.jpeg"
+              poster="https://course.vlab-sapcloudplatformdev.cn/course/course1/f/video/cs101/week1/wolf.jpeg"
               data-setup='{"playbackRates": [1, 1.3, 1.6, 2, 4]}'>
-              <source src="/course/course0/f/video/cs101/week1/wolf.mp4" type='video/mp4' />
+              <source src="/course/course1/f/video/cs101/week1/wolf.mp4" type='video/mp4' />
             </video>
     -
         {{ indented_include("questions/non-ascii-choices.yml", 8) }}
