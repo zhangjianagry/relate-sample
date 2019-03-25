@@ -59,6 +59,7 @@ groups:
         id : Week1_Animals_page1
         content: |
             #Some videos about Animals
+            <img src="repo:images/classroom.jpeg">
             <video id="catVideo" class="video-js vjs-default-skin"
               controls preload="auto" width="800" height="600"
               poster="https://course.vlab-sapcloudplatformdev.cn/course/course0/f/video/cs101/week1/cat.jpeg"
