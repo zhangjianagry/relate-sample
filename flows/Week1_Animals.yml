@@ -74,7 +74,6 @@ groups:
         id : Week1_Animals_page3
         content: |
             #Some videos about animals
-
            <video id="catVideo" class="video-js vjs-default-skin"
               controls preload="auto" width="800" height="600"
               poster="https://course.vlab-sapcloudplatformdev.cn/course/course0/f/video/cs101/week1/wolf.jpeg"
@@ -83,19 +82,10 @@ groups:
               <p class="vjs-no-js">To view this video please enable JavaScript, and consider upgrading to a web browser that <a href="http://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a></p>
             </video>
     -
-        {{ indented_include("questions/human-graded-text-example.yml", 8) }}
-    -
         {{ indented_include("questions/non-ascii-choices.yml", 8) }}
     -
         type : Page
         id : Week1_Animals_page5
         content: |
-
             # See you in class!
             Thanks for completing the courses.
-    
-
-
-    
-
-
