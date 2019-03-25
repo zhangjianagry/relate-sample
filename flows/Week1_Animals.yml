@@ -69,8 +69,9 @@ groups:
               <p class="vjs-no-js">To view this video please enable JavaScript, and consider upgrading to a web browser that <a href="http://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a></p>
             </video>
     -
-        {{ indented_include("questions/complex-text-match-example.yml", 12) }}
-        {{ indented_include("questions/symbolic-expression-example.yml", 12) }}
+        {{ indented_include("questions/complex-text-match-example.yml", 8) }}
+    -
+        {{ indented_include("questions/symbolic-expression-example.yml", 8) }}
     -
         type: Page
         id : Week1_Animals_page3
@@ -85,8 +86,9 @@ groups:
               <p class="vjs-no-js">To view this video please enable JavaScript, and consider upgrading to a web browser that <a href="http://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a></p>
             </video>
     -
-        {{ indented_include("questions/human-graded-text-example.yml", 12) }}
-        {{ indented_include("questions/non-ascii-choices.yml", 12) }}
+        {{ indented_include("questions/human-graded-text-example.yml", 8) }}
+    -
+        {{ indented_include("questions/non-ascii-choices.yml", 8) }}
     -
         type : Page
         id : Week1_Animals_page5
