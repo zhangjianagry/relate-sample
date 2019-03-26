@@ -1,0 +1,13 @@
+type: ChoiceQuestion
+id: 2
+prompt: |
+
+    # Colors
+
+    What color is the sun?
+
+choices:
+
+- Blue
+- Green
+- ~CORRECT~ Yellow

@@ -1,0 +1,21 @@
+type: MultipleChoiceQuestion
+id: 1
+credit_mode: exact
+value: 1
+shuffle: False
+answer_explanation : |
+    #some explanation write in markdown
+    # means header
+prompt: |
+
+    # Ice Cream Toppings
+
+    Which of the following are ice cream toppings?
+
+choices:
+
+  - ~CORRECT~ Sprinkles
+  - ~CORRECT~ Chocolate chunks
+  - Vacuum cleaner dust
+  - Spider webs
+  - ~CORRECT~ Almond bits
