@@ -83,7 +83,7 @@ groups:
           - <plain>a half
 
     -
-        {{ indented_include("questions/krylov.yml", 8) }}
+        {{ indented_include("questions/template/krylov.yml", 8) }}
 
     -
         type: MultipleChoiceQuestion
@@ -106,10 +106,10 @@ groups:
           - ~CORRECT~ Almond bits
 
     -
-        {{ indented_include("questions/matrix-properties.yml", 8) }}
+        {{ indented_include("questions/template/matrix-properties.yml", 8) }}
 
     -
-        {{ indented_include("questions/multi-question-example.yml", 8) }}
+        {{ indented_include("questions/template/multi-question-example.yml", 8) }}
 
     -
         type: SurveyTextQuestion
@@ -122,7 +122,7 @@ groups:
             What's your biggest fear?
 
     -
-        {{ indented_include("questions/survey-age-question.yml", 8) }}
+        {{ indented_include("questions/template/survey-age-question.yml", 8) }}
 
 -
     id: quiz_tail
@@ -131,27 +131,27 @@ groups:
     pages:
 
     -
-        {{ indented_include("questions/complex-text-match-example.yml", 8) }}
+        {{ indented_include("questions/template/complex-text-match-example.yml", 8) }}
     -
-        {{ indented_include("questions/symbolic-expression-example.yml", 8) }}
+        {{ indented_include("questions/template/symbolic-expression-example.yml", 8) }}
     -
-        {{ indented_include("questions/long-choice-least-squares.yml", 8) }}
+        {{ indented_include("questions/template/long-choice-least-squares.yml", 8) }}
     -
-        {{ indented_include("questions/autograded-python-example.yml", 8) }}
+        {{ indented_include("questions/template/autograded-python-example.yml", 8) }}
     -
-        {{ indented_include("questions/auto-and-human-graded-python-example.yml", 8) }}
+        {{ indented_include("questions/template/auto-and-human-graded-python-example.yml", 8) }}
     -
-        {{ indented_include("questions/pdf-file-upload-example.yml", 8) }}
+        {{ indented_include("questions/template/pdf-file-upload-example.yml", 8) }}
     -
-        {{ indented_include("questions/any-file-upload-example.yml", 8) }}
+        {{ indented_include("questions/template/any-file-upload-example.yml", 8) }}
     -
-        {{ indented_include("questions/human-graded-text-example.yml", 8) }}
+        {{ indented_include("questions/template/human-graded-text-example.yml", 8) }}
     -
-        {{ indented_include("questions/audio-output-example.yml", 8) }}
+        {{ indented_include("questions/template/audio-output-example.yml", 8) }}
     -
-        {{ indented_include("questions/python-complex-validation-test-code.yml", 8) }}
+        {{ indented_include("questions/template/python-complex-validation-test-code.yml", 8) }}
     -
-        {{ indented_include("questions/non-ascii-choices.yml", 8) }}
+        {{ indented_include("questions/template/non-ascii-choices.yml", 8) }}
 
 completion_text: |
 
