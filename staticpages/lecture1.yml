@@ -1,5 +1,6 @@
 content: |
-     
+
+    # Demo page
     <video id="catVideo" class="video-js vjs-default-skin"
         controls preload="auto" width="800" height="600"
         poster="/course/course1/f/video/Lecture1/cat.jpeg"
