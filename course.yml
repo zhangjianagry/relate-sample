@@ -13,21 +13,12 @@ chunks:
         weight: 0
 
     content: |
-
-        ## Hi there!
-        This is just a tutorial for exhibition.
-        [COURSE HOME](staticpage: common_Course_Home)
-        [Regular videos and quizzes.](staticpage:videoCourses)
-        
-        [Exams](flow:quiz-test)
-
-
         ##Course Highlights
         This course parallels the combination of theory and application.
         You need to watch videos and do some tests.
         In the end, we have a final exam.
 
-        #Course Description
+        ##Course Description
         This is a basic subject on sap cloudfoundy.
 
         ##Course Features
@@ -39,7 +30,7 @@ chunks:
 
 
 
-        **Go back to the**[course page](course:)
+        **Go back to the **[course page](course:)
 
 
         <div class="well" markdown="1">
