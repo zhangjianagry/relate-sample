@@ -16,7 +16,7 @@ chunks:
           [<img src="repocur:images/lecture1_cat.png">](staticpage:lecture1)  
           [Lecture 1 : The topic about cats](staticpage:lecture1)
 
-          [<img src="repocur:images/lecture2_wolf.png">](staticpage:lecture2) >> 
+          [<img src="repocur:images/lecture2_wolf.png">](staticpage:lecture2)  
           [Lecture 2 : The topic about wolves](staticpage:lecture2)
         <div>
         Go back to the [course page](course:)
