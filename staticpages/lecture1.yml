@@ -3,9 +3,9 @@ content: |
     # Demo page
     <video id="catVideo" class="video-js vjs-default-skin"
         controls preload="auto" width="800" height="600"
-        poster="/course/course1/f/video/Lecture1/cat.jpeg"
+        poster="/course/course1/f/video/lecture1/cat.jpeg"
         data-setup='{"playbackRates": [1, 1.3, 1.6, 2, 4]}'>
-        <source src="/course/course1/f/video/Lecture1/cat.mp4" type='video/mp4' />
+        <source src="https:47.102.159.111/course/course1/f/video/lecture1/cat.mp4" type='video/mp4' />
     </video>
     <img src="repocur:images/cat.png">
     [**Next Lecture**](staticpage:lecture2)
@@ -14,5 +14,6 @@ content: |
     >this video is about what, you can edit by yourself
     * Relate Resource
     >you can git some useful urls
-    * [Relevant pdfs](video/Lecture1:lecture1.pdf)
+    * Relevant pdfsRelevant
+    >[lecture1.pdf](repocur:video/Lecture1:lecture1.pdf)
     
