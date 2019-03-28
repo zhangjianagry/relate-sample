@@ -13,8 +13,8 @@ chunks:
     content: |
         The followings are videos about different topics. 
         <div class="well" markdown="1">
-          [<img src="repocur:images/cat.png">](staticpage : lecture1) >> 
-          [Lecture 1 : The topic about Animals](staticpage : lecture1)
+          [<img src="repocur:images/cat.png">](staticpage:lecture1) >> 
+          [Lecture 1 : The topic about Animals](staticpage:lecture1)
         <div>
 
         <div class="well" markdown="1">
