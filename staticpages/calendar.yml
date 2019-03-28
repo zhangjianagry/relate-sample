@@ -12,10 +12,8 @@ chunks:
 
     content: |
         * CALENDAR
-        >ses    Topics          Key datas  
-        >1      cat             
-        >2      dog             one exam
-        >3      lion            
-        >4      tiget           one exam
+        |SES|Topics|Key Dates|
+        |1|Cat|    |
+        |2|Wolf|One exam|
         
 
