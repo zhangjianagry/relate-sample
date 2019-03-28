@@ -12,8 +12,8 @@ chunks:
 
     content: |
         * Course Meeting Times
-        >Lectures: 3 sessions / week, 1 hour / session  
-        >Recitations: 1 session / week, 1 hour / session  
+        >* Lectures: 3 sessions / week, 1 hour / session  
+        >* Recitations: 1 session / week, 1 hour / session  
 
         * Prerequisites
         >None
@@ -36,8 +36,7 @@ chunks:
         >There will be three one-hour exams at class times and a final exam. The use of calculators or notes is not permitted during the exams.
 
         * Grading
-        >Three one-hour exams   45%
-        
-        >Final exam             55％  
+        >* Three one-hour exams   45%
+        >* Final exam             55％  
         
 
