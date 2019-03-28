@@ -8,7 +8,6 @@ chunks:
         if_after: end_week 3
         if_before: 2038-01-01 13:00:00 -5
         weight: 100
-
     -
         weight: 0
 
@@ -35,16 +34,6 @@ chunks:
 
 
         **Go back to the **[courses page](course:)
-
-
-        <div class="well" markdown="1">
-          <a href="https://www.sap.com/index.html"><img src="repo:images/sap-logo.png"></a> <i class="fa fa-heart"></i>
-          <a href="https://djangoproject.com/"><img src="repo:images/django-logo.png"></a>.
-
-          **Addition information**  
-
-            If you have any question, please contact to zhangjianagry@gmail.com
-        </div>
 
 -
     title: "Exam pointer"
