@@ -9,8 +9,8 @@ content: |
     </video>
 
     <img src="repocur:images/cat.png">
-    <img src="repocur:video/lecture1/cat.jpeg">
-    <img src="repo:video/lecture1/cat.jpeg">
+    <img src="repocur:video/cat.jpeg">
+    <img src="repo:video/cat.jpeg">
     <img src="repo:images/cat.png">
     
     [**Next Lecture**](staticpage:lecture2)
