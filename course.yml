@@ -42,29 +42,14 @@ chunks:
         **Go back to the**[course page](course:)
 
 
-
-
-        
-
-       
-        #换成sap的logger
-        (![creative commons](repo:images/cc.png)/by [kevin dooley](https://secure.flickr.com/photos/pagedooley/13905987989/) on Flickr)
-
         <div class="well" markdown="1">
-          *RELATE* <i class="fa fa-heart"></i>
-          <a href="https://djangoproject.com/"><img src="repo:images/django-logo.png"></a>.
-          (Note that all of this is sample content. RELATE does not clutter
-          your course page with information about itself.)
-        </div>
-
-        <div class="well" markdown="1">
-          *Sap* <i class="fa fa-heart"></i>
+          <a href="https://www.sap.com/index.html"><img src="repo:images/sap-logo.png"></a> <i class="fa fa-heart"></i>
           <a href="https://djangoproject.com/"><img src="repo:images/django-logo.png"></a>.
 
-          ###Course contribution
+          **Course contribution**  
           Eric,Lu     Bella, Wang
 
-          ###addition information
+          **addition information**  
           If you have any question, please contact to **zhangjianagry@gamil.com**
         </div>
 
