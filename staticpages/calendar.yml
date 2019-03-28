@@ -1,0 +1,21 @@
+chunks:
+-
+    title: "Welcome to the Video lectures"
+    id: welcome
+    rules:
+    -
+        if_after: 2015-06-01
+        weight: 200
+    -
+        shown: False
+        weight: 0
+
+    content: |
+        * CALENDAR
+        >ses    Topics          Key datas
+        >1      cat             
+        >2      dog             one exam
+        >3      lion            
+        >4      tiget           one exam
+        
+

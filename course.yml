@@ -23,8 +23,8 @@ chunks:
 
         ##Course Features
         * [**Video lectures**](staticpage:videoCourses)
-        * [**Syllabus**]()
-        * [**Calendar**]()
+        * [**Syllabus**](staticpage:syllabus)
+        * [**Calendar**](staticpage:calendar)
         * [**Some tests**]()
 
 
@@ -43,7 +43,7 @@ chunks:
 
           **addition information**  
 
-            If you have any question, please contact to *zhangjianagry@gmail.com*
+            If you have any question, please contact to _zhangjianagry@gmail.com_
         </div>
 
 -
