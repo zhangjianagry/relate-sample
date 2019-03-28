@@ -10,6 +10,7 @@ content: |
 
     <img src="repocur:images/cat.png">
     <img src="repocur:video/lecture1/cat.jpeg">
+    <img src="repo:images/cat.png">
     [**Next Lecture**](staticpage:lecture2)
 
     * About this video
@@ -17,5 +18,5 @@ content: |
     * Relate Resource
     >you can git some useful urls
     * Relevant pdfsRelevant
-    >[lecture1.pdf](repocur:video/Lecture1:lecture1.pdf)
+    >[lecture1.pdf](repocur:video/lecture1/lecture1.pdf)
     
