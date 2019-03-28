@@ -13,7 +13,7 @@ chunks:
         weight: 0
 
     content: |
-        ##Course Description
+        ###Course Description
         This is a basic subject on sap cloudfoundy. It will begin at 3.1 and end at 4.30.  
         
 
@@ -26,7 +26,7 @@ chunks:
             * need very specific about this topic
 
 
-        [**Examinatino**](staticpage:onlinetests)
+        ###[**Examination**](staticpage:onlinetests)
 
 
 
