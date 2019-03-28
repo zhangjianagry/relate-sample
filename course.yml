@@ -19,9 +19,11 @@ chunks:
         ### Course Content
         * [Lecture 1 by trainer1: The topic about cats](staticpage:lecture1)
         >· Specific features about this topic, need trainer to support  
+
         >· Need very specific about this topic  
         * [Lecture 2 by trainer2: The topic about wolves](staticpage:lecture2)  
         >· Specific features about this topic, need trainer to support  
+        
         >· Need very specific about this topic
 
 
