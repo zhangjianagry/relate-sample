@@ -11,9 +11,12 @@ chunks:
         weight: 0
 
     content: |
-        * CALENDAR
-        *SES    Topics      Key Dates
-        *1      Cat         
-        *2      Wolf        One exam
+        ### CALENDAR
+        * Lecture1
+        > Topics :  **Cat**  
+        > Event : Nothing
+        * Lecture2
+        > Topics :  **Dog**  
+        > Event : **One Exam**
         
 
