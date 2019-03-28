@@ -2,4 +2,4 @@ unenrolled:
 - "*.png"
 - "*.jpeg"
 - "*.mp4"
-_ "*.yml"
+- "*.yml"
