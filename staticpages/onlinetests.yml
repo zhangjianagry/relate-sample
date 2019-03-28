@@ -1,0 +1,44 @@
+chunks:
+-
+    title: "Welcome to exam 1"
+    id: exam1
+    rules:
+    -
+        if_after: 2015-06-01
+        weight: 200
+    -
+        shown: False
+        weight: 0
+
+    content: |
+        [This is the first exam](flow:exam-1)
+
+-
+    title: "Welcome to exam 2"
+    id: exam2
+    rules:
+    -
+        if_after: 2015-06-01
+        weight: 200
+    -
+        shown: False
+        weight: 0
+
+    content: |
+        [This is the first exam](flow:exam-1)
+
+-
+    title: "Welcome to exam 1"
+    id: exam1
+    rules:
+    -
+        if_after: 2015-06-01
+        weight: 200
+    -
+        shown: False
+        weight: 0
+
+    content: |
+        [This is the first exam](flow:exam-1)
+
+
