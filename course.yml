@@ -14,7 +14,9 @@ chunks:
 
     content: |
         ###Course Description
-        This is a basic subject on sap cloudfoundy. It will begin at 3.1 and end at 4.30.  
+        * This is a basic subject on sap cloudfoundy. It will begin at 3.1 and end at 4.30.
+
+        * This course is very important
         
         ### Course Content
         #### [Lecture 1 by trainer1: The topic about cats](staticpage:lecture1)
