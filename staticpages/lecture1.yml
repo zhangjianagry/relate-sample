@@ -14,7 +14,7 @@ content: |
     * About this video  
       *this video is about what, you can edit by yourself
     * Relate Resource
-    >you can put some useful links
+      *you can put some useful links
     * Relevant pdfsRelevant
-    >[lecture1.pdf](repocur:video/lecture1_cat.pdf)
+      *[lecture1.pdf](repocur:video/lecture1_cat.pdf)
     
