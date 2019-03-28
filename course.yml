@@ -16,14 +16,43 @@ chunks:
 
         # Hi there!
         This is just a tutorial for exhibition.
-        
+        [COURSE HOME](staticpage: common_Course_Home)
         [Regular videos and quizzes.](staticpage:videoCourses)
         
         [Exams](flow:quiz-test)
 
 
-       
+        #Course Highlights
+        This course parallels the combination of theory and application.
+        You need to watch videos and do some tests.
+        In the end, we have on final exam.
 
+        #course Description
+        This is a basic subject on sap cloudfoundy.
+
+        #Course Features
+        *[**Video lectures**]()
+        *[**Syllabus**]()
+        *[**Calendar**]()
+        *[**Some tests**]()
+
+
+
+
+        **Go back to the[course page](course:)
+
+
+
+
+        #Course contribution
+        Eric,Lu     Bella, Wang
+
+
+        #addition information
+        If you have any question, please contact to **zhangjianagry@gamil.com**
+
+       
+        #换成sap的logger
         (![creative commons](repo:images/cc.png)/by [kevin dooley](https://secure.flickr.com/photos/pagedooley/13905987989/) on Flickr)
 
         <div class="well" markdown="1">
