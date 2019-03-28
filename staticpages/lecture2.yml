@@ -1,6 +1,12 @@
 content: |
 
-    ## Lecture 2 about wolf
+    ### lecture1 description
+    * trainer need to edit this to support enough materials and method of learning
+    > you can download this [lecture1.pdf](repocur:video/lecture2_wolf.pdf)
+    * eg. some useful links
+    * eg. some pdf and some links
+    * in the end, is the video
+
     <video id="catVideo" class="video-js vjs-default-skin"
        controls preload="auto" width="800" height="600"
        poster="/course/course1/f/video/lecture2_wolf.jpeg"
@@ -11,10 +17,5 @@ content: |
     
     ### Go to the [Next Lecture](staticpage:lecture3)
 
-    * About this video  
-    >this video is about what, you can edit by yourself
-    * Relate Resource
-    >you can put some useful links
-    * Relevant pdfsRelevant
-    >[lecture2.pdf](repocur:video/lecture2_wolf.pdf)
+    
     
