@@ -137,10 +137,6 @@ groups:
     -
         {{ indented_include("questions/template/long-choice-least-squares.yml", 8) }}
     -
-        {{ indented_include("questions/template/autograded-python-example.yml", 8) }}
-    -
-        {{ indented_include("questions/template/auto-and-human-graded-python-example.yml", 8) }}
-    -
         {{ indented_include("questions/template/pdf-file-upload-example.yml", 8) }}
     -
         {{ indented_include("questions/template/any-file-upload-example.yml", 8) }}
