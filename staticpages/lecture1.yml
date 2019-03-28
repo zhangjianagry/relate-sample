@@ -1,6 +1,6 @@
 content: |
 
-    # Demo page
+    ## Lecture 2 about wolf
     <video id="catVideo" class="video-js vjs-default-skin"
        controls preload="auto" width="800" height="600"
        poster="/course/course1/f/video/lecture1_cat.jpeg"
