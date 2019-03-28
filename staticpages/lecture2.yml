@@ -1,11 +1,11 @@
 content: |
 
     ### lecture1 description
-    > trainer need to edit this to support enough materials and method of learning
-    > you can download this [lecture1.pdf](repocur:video/lecture2_wolf.pdf)
-    > eg. some useful links
-    > eg. some pdf and some links
-    > in the end, is the video
+    * trainer need to edit this to support enough materials and method of learning
+    * you can download this [lecture1.pdf](repocur:video/lecture2_wolf.pdf)
+    * eg. some useful links
+    * eg. some pdf and some links
+    * in the end, is the video
 
     <video id="catVideo" class="video-js vjs-default-skin"
        controls preload="auto" width="800" height="600"
