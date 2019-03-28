@@ -29,7 +29,7 @@ chunks:
 
 -
     title: "Welcome to exam 1"
-    id: exam1
+    id: exam3
     rules:
     -
         if_after: 2015-06-01
