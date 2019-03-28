@@ -8,10 +8,8 @@ content: |
       <source src="/course/course1/f/video/lecture1_cat.mp4" type='video/mp4' />
     </video>
 
-    <img src="repocur:video/lecutre1_cat.jpeg">
-    <img src="repo:video/lecture1_cat.jpeg">
     
-    [**Next Lecture**](staticpage:lecture2)
+    [###**Next Lecture**](staticpage:lecture2)
 
     * About this video
     >this video is about what, you can edit by yourself
