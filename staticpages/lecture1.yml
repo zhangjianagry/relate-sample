@@ -1,11 +1,12 @@
 content: |
 
     ### lecture1 description
-    * trainer need to edit this to support enough materials and method of learning
+    > trainer need to edit this to support enough materials and method of learning
     > you can download this [lecture1.pdf](repocur:video/lecture1_cat.pdf)
-    * eg. some useful links
-    * eg. some pdf and some links
-    * in the end, is the video
+    > eg. some useful links
+    > eg. some pdf and some links
+    > in the end, is the video
+    >After this video, you should complete this [test](flow:quiz-test).
 
     ### Video
     <video id="catVideo" class="video-js vjs-default-skin"
