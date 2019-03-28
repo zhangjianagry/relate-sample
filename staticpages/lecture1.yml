@@ -8,10 +8,10 @@ content: |
       <source src="/course/course1/f/video/lecture1/cat.mp4" type='video/mp4' />
     </video>
 
-    <img src="repocur:images/cat.png">
     <img src="repocur:video/cat.jpeg">
     <img src="repo:video/cat.jpeg">
-    <img src="repo:images/cat.png">
+    <img src="repo:video/lecture1/cat.jpeg">
+    <img src="repocur:video/lecture1/cat.jpeg">
     
     [**Next Lecture**](staticpage:lecture2)
 
