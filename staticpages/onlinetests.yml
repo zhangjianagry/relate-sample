@@ -11,7 +11,7 @@ chunks:
         weight: 0
 
     content: |
-        [This is the first exam](flow:exam-1)
+        ### [This is the first exam](flow:exam-1)
 
 -
     title: "Welcome to exam 2"
@@ -25,7 +25,7 @@ chunks:
         weight: 0
 
     content: |
-        [This is second exam](flow:exam-1)
+        ### [This is second exam](flow:quiz-test)
 
 -
     title: "Welcome to exam 1"
@@ -39,6 +39,6 @@ chunks:
         weight: 0
 
     content: |
-        [This is the third exam](flow:exam-1)
+        ### [This is the third exam](flow:quiz-test)
 
 
