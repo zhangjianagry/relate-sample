@@ -1,11 +1,27 @@
-content: |
+chunks:
+-
+    title: "Welcome to the Video lectures"
+    id: welcome
+    rules:
+    -
+        if_after: 2015-06-01
+        weight: 200
+    -
+        shown: False
+        weight: 0
 
-    # Demo page
+    content: |
+        The followings are videos about different topics. 
+        <div class="well" markdown="1">
+          [<img src="repocur:images/cat.png">](staticpage : lecture1) >> 
+          [Lecture 1 : The topic about Animals](staticpage : lecture1)
+        <div>
 
-    The followings are materials about different topics.
-    
+        <div class="well" markdown="1">
+          <a href="https://www.sap.com/index.html"><img src="repo:images/sap-logo.png"></a> >> 
+          <a href="https://djangoproject.com/">Lecture 2 : The topic about Animals</a>.
+        <div>
 
-    <p markdown="1">[Week1 : Animals](flow:Week1_Animals)</p>
-    <p>Week2 courses is not prepared.</p>
 
-    Go back to the [course page](course:)
+        Go back to the [course page](course:)
+

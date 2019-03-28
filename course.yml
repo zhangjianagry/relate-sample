@@ -22,7 +22,7 @@ chunks:
         This is a basic subject on sap cloudfoundy.
 
         ##Course Features
-        * [**Video lectures**]()
+        * [**Video lectures**](staticpage: videoCourses)
         * [**Syllabus**]()
         * [**Calendar**]()
         * [**Some tests**]()
@@ -37,7 +37,7 @@ chunks:
           <a href="https://www.sap.com/index.html"><img src="repo:images/sap-logo.png"></a> <i class="fa fa-heart"></i>
           <a href="https://djangoproject.com/"><img src="repo:images/django-logo.png"></a>.
 
-          **Course contribution:**
+          **Course contributor:**
 
             Eric,Lu     Bella, Wang  
 
