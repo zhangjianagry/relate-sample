@@ -30,12 +30,16 @@ chunks:
             <dd class = "desc" style="font-family: Microsoft YaHei;font-size:16px">&nbsp;&nbsp;&nbsp;· Need very specific about this topic</dd>
         </dl>
         </div>
-        <div class = "well" markdown = "1">
-            ###[**Examination**](flow:quiz-test)
+        
+        ###Examination
+        <div class = "well" style="font-family: Microsoft YaHei;font-size:16px">
+            <dd>&nbsp;&nbsp;&nbsp;· Go to the [exam](flow:quiz-test)</dd>
         </div>
+        
+
 
         <div class = "well" markdown = "1">
-            **Go back to the **[courses page](course:)
+            Go back to the[courses page](course:)
         </div>
 
 -

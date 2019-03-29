@@ -5,25 +5,30 @@ chunks:
     id: welcome
     content: |
         <div class="well" markdown = "1">
-          ### lecture1 learning path
-          1. Maybe you can put a learning path here. Eg, first read some useful links then
-          download the pdf, in the end, watch the video.
-          2. Learner can download the [lecture1.pdf](repocur:video/lecture1_cat.pdf)
-          3. Learner can 
-          4. After this video, you should complete this [test](flow:quiz-test).
+            <h3>lecture1 learning path<h3>
+            <ol>
+              <li>Maybe you can put a learning path here. Eg, first read some useful links then
+          download the pdf, in the end, watch the video.</li>
+              <li>Learner can download the [lecture1.pdf](repocur:video/lecture1_cat.pdf)</li>
+              <li>Learner can read the [document](https://www.djangoproject.com/)</li>
+              <li>After this video, you should complete this [test](flow:quiz-test).</li>
+            </ol>
+        </div>
+        
+        <div class="well" markdown = "1">
+          <h3>Content<h3>
+          <video id="catVideo" class="video-js vjs-default-skin"
+            controls preload="auto" width="800" height="600"
+            poster="/course/course1/f/video/lecture1_cat.jpeg"
+            data-setup='{"playbackRates": [1, 1.3, 1.6, 2, 4]}'>
+            <source src="/course/course1/f/video/lecture1_cat.mp4" type='video/mp4' />
+          </video>
         </div>
         
 
-        ### Content
-        <video id="catVideo" class="video-js vjs-default-skin"
-          controls preload="auto" width="800" height="600"
-          poster="/course/course1/f/video/lecture1_cat.jpeg"
-          data-setup='{"playbackRates": [1, 1.3, 1.6, 2, 4]}'>
-          <source src="/course/course1/f/video/lecture1_cat.mp4" type='video/mp4' />
-        </video>
-
-        
-        ### Go to the [Next Lecture](staticpage:lecture2)
+        <div class="well" mamarkdown = "1"rd>
+          <h3>Go to the [Next Lecture](staticpage:lecture2)</h3>
+        </div>
 
   
     

@@ -1,28 +1,36 @@
 chunks:
-
 -
-    title: "lecture1"
+    title: "lecture2"
     id: welcome
     content: |
-        <div class="well" markdown="1">
-          ### lecture2 learning path
-          1. Maybe you can put a learning path here. Eg, first read some useful links then
-          download the pdf, in the end, watch the video.
-          2. Learner can download the [lecture2.pdf](repocur:video/lecture2_wolf.pdf)
-          3. Learner can 
-          4. After this video, you should complete this [test](flow:quiz-test).
+        <div class="well" markdown = "1">
+            <h3>lecture1 learning path<h3>
+            <ol>
+              <li>Maybe you can put a learning path here. Eg, first read some useful links then
+          download the pdf, in the end, watch the video.</li>
+              <li>Learner can download the [lecture2.pdf](repocur:video/lecture2_wolf.pdf)</li>
+              <li>Learner can read the [document](https://www.djangoproject.com/)</li>
+              <li>After this video, you should complete this [test](flow:quiz-test).</li>
+            </ol>
         </div>
         
-        ### Content
-        <video id="catVideo" class="video-js vjs-default-skin"
-          controls preload="auto" width="800" height="600"
-          poster="/course/course1/f/video/lecture2_wolf.jpeg"
-          data-setup='{"playbackRates": [1, 1.3, 1.6, 2, 4]}'>
-          <source src="/course/course1/f/video/lecture2_wolf.mp4" type='video/mp4' />
+        <div class="well" markdown = "1">
+          <h3>Content<h3>
+          <video id="catVideo" class="video-js vjs-default-skin"
+            controls preload="auto" width="800" height="600"
+            poster="/course/course1/f/video/lecture2_wolf.jpeg"
+            data-setup='{"playbackRates": [1, 1.3, 1.6, 2, 4]}'>
+            <source src="/course/course1/f/video/lecture2_wolf.mp4" type='video/mp4' />
         </video>
-
+        </div>
         
-        ### Go to the [Next Lecture](staticpage:lecture3)
+
+        <div class="well" mamarkdown = "1"rd>
+          <h3>Go to the [Next Lecture](staticpage:lecture3)</h3>
+        </div>
+
+  
+    
 
     
     
