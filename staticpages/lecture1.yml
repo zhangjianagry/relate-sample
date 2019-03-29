@@ -4,16 +4,21 @@ chunks:
     title: "lecture1"
     id: welcome
     content: |
-        <div class="well">
-            <h3>lecture1 learning path</h3>
-            <div>
+        <div class="well" >
+            <h5>Lecture description</h5>
+            <div>&nbsp&nbsp&nbsp&nbspThis is topic about cat, It is important.</div>
+            <h5>Lecuture learning path</h5>
+            <div markdown="1">
               <ol>
-                <li>Maybe you can put a learning path here. Eg, first read some useful links then
-            download the pdf, in the end, watch the video.</li>
-                <li>Learner can download the <a href=repocur:video/lecture1_cat.pdf>lecture1.pdf</a>)</li>
+              <li>Maybe you can put a learning path here. Eg, first read some useful links then
+          download the pdf, in the end, watch the video.</li>
+              <li>Learner can download the <a href=repocur:video/lecture1_cat.pdf>lecture1.pdf</a></li>
                 <li>Learner can read the <a href=https://www.djangoproject.com/>document</a></li>
-                <li>Learner need to watch the video.</li>
+                <li>After this video, you should complete this [test](flow:quiz-test).</li>
               </ol>
+
+              After this lecture, you will gain some skills.
+
             </div>
         </div>
         
