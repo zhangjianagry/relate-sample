@@ -5,13 +5,13 @@ chunks:
     id: welcome
     content: |
         <div class="well" markdown="1">
-            <h3>lecture1 learning path<h3>
+            <h3>lecture1 learning path</h3>
             <ol>
               <li>Maybe you can put a learning path here. Eg, first read some useful links then
           download the pdf, in the end, watch the video.</li>
               <li>Learner can download the [lecture1.pdf](repocur:video/lecture1_cat.pdf)</li>
               <li>Learner can read the [document](https://www.djangoproject.com/)</li>
-              <li>After this video, you should complete this [test](flow:quiz-test).</li>
+              <li>Learner need to watch the video.</li>
             </ol>
         </div>
         
