@@ -4,7 +4,7 @@ chunks:
     id: welcome
     content: |
         <div class="well" markdown="1">
-            <h3>Lecture1 learning path<h3>
+            <h3>Lecture2 learning path<h3>
             <ol>
               <li>Maybe you can put a learning path here. Eg, first read some useful links then
           download the pdf, in the end, watch the video.</li>
