@@ -1,13 +1,15 @@
 type: ChoiceQuestion
-id: 1
+id: ChoiceQuestion_1
 prompt: |
 
-    # Colors
+    # Kibana
 
-    What color is the sun?
+    What are not the main components on Kibana interface?
 
 choices:
 
-- Blue
-- Green
-- ~CORRECT~ Yellow
+- Discover
+- Visualize
+- Settings
+- Dashboard
+- ~CORRECT~ Logs

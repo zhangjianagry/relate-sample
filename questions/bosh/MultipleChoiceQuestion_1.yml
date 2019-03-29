@@ -1,22 +1,21 @@
 type: MultipleChoiceQuestion
-id: 1
+id: MultipleChoiceQuestion_1
 credit_mode: exact
 value: 1
 shuffle: False
 title: #MultipleChoiceQuestion
 answer_explanation : |
     #some explanation write in markdown
-    # means header
+    #means header
 prompt: |
 
-    # Ice Cream Toppings
+    # Network
 
-    Which of the following are ice cream toppings?
+    What are the features of UDP?
 
 choices:
 
-  - ~CORRECT~ Sprinkles
-  - ~CORRECT~ Chocolate chunks
-  - Vacuum cleaner dust
-  - Spider webs
-  - ~CORRECT~ Almond bits
+- ~CORRECT~ Connectionless
+- ~CORRECT~ Provide unreliable service
+- ~CORRECT~ Supports one to one, one to multi, multi to one and multi to multi communication
+- Connection-oriented

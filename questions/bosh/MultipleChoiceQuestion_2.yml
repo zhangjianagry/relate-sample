@@ -1,0 +1,23 @@
+type: MultipleChoiceQuestion
+id: MultipleChoiceQuestion_2
+credit_mode: exact
+value: 1
+shuffle: False
+title: #MultipleChoiceQuestion
+answer_explanation : |
+    #some explanation write in markdown
+    #means header
+prompt: |
+
+    # Git
+    Git most popular commands are ?
+
+    
+
+choices:
+
+- ~CORRECT~ git add 
+- ~CORRECT~ git commit
+- ~CORRECT~ git push
+- ~CORRECT~ git pull
+- ~CORRECT~ git checkout

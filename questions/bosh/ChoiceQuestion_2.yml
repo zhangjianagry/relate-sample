@@ -1,13 +1,14 @@
 type: ChoiceQuestion
-id: 2
+id: ChoiceQuestion_2
 prompt: |
 
-    # Colors
+    # Network
 
-    What color is the sun?
+    What is the feature of Tcp?
 
 choices:
 
-- Blue
-- Green
-- ~CORRECT~ Yellow
+- Connectionless
+- Provide unreliable service
+- Supports one to one, one to multi, multi to one and multi to multi communication
+- ~CORRECT~ Connection-oriented

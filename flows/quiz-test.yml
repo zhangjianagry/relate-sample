@@ -7,7 +7,7 @@
 # separate files. This is optional, but conceivably useful.
 {% from "yaml-macros.yml" import indented_include %}
 
-title: "RELATE Test Quiz"
+title: "Sap cloud platform examination"
 
 # The "|" character introduces a 'block literal', which means all text indented below
 # it is taken literally. The description property holds text marked up with 'Markdown'.
@@ -16,12 +16,11 @@ title: "RELATE Test Quiz"
 # So the '#' character below introduces a first-level headline (not a comment).
 description: |
 
-    # RELATE Test Quiz
+    # Sap cloud platform examination
 
 rules:
     start:
     -
-        if_before: end_week 1
         if_has_role: [student, ta, instructor]
         if_has_fewer_sessions_than: 4
         may_start_new_session: True
@@ -45,112 +44,26 @@ rules:
 
 groups:
 -
-    id: intro
-    pages:
-
-    -
-        type: Page
-        id: welcome
-        content: |
-
-            # Welcome to the test quiz for RELATE!
-
-            Don't be scared.
-
--
     id: quiz_start
+    max_page_count: 4
     shuffle: False
+
     pages:
 
     # Pages can be given in-line (like this one) or brought in by including
     # them from other files, as below.
-    -
-        type: TextQuestion
-        id: half
-        value: 5
-        prompt: |
-
-          # A half
-
-          What's a half?
-
-        answers:
-
-          - type: float
-            value: 0.5
-            rtol: 1e-4
-          - <plain>half
-          - <plain>a half
 
     -
-        {{ indented_include("questions/template/krylov.yml", 8) }}
-
+        {{ indented_include("questions/bosh/ChoiceQuestion_1.yml", 8) }}
     -
-        type: MultipleChoiceQuestion
-        id: ice_cream_toppings
-        credit_mode: exact
-        value: 1
-        shuffle: False
-        prompt: |
-
-            # Ice Cream Toppings
-
-            Which of the following are ice cream toppings?
-
-        choices:
-
-          - ~CORRECT~ Sprinkles
-          - ~CORRECT~ Chocolate chunks
-          - Vacuum cleaner dust
-          - Spider webs
-          - ~CORRECT~ Almond bits
-
+        {{ indented_include("questions/bosh/ChoiceQuestion_2.yml", 8) }}
     -
-        {{ indented_include("questions/template/matrix-properties.yml", 8) }}
+        {{ indented_include("questions/bosh/MultipleChoiceQuestion_1.yml", 8) }}
+    -
+        {{ indented_include("questions/bosh/MultipleChoiceQuestion_2.yml", 8) }}
+    -   
+        {{ indented_include("questions/bosh/TextQuestion_1.yml", 8) }}
 
-    -
-        {{ indented_include("questions/template/multi-question-example.yml", 8) }}
 
-    -
-        type: SurveyTextQuestion
-        id: fear
-        widget: textarea
-        prompt: |
 
-            # Psychology Survey
 
-            What's your biggest fear?
-
-    -
-        {{ indented_include("questions/template/survey-age-question.yml", 8) }}
-
--
-    id: quiz_tail
-    shuffle: True
-    max_page_count: 2
-    pages:
-
-    -
-        {{ indented_include("questions/template/complex-text-match-example.yml", 8) }}
-    -
-        {{ indented_include("questions/template/symbolic-expression-example.yml", 8) }}
-    -
-        {{ indented_include("questions/template/long-choice-least-squares.yml", 8) }}
-    -
-        {{ indented_include("questions/template/pdf-file-upload-example.yml", 8) }}
-    -
-        {{ indented_include("questions/template/any-file-upload-example.yml", 8) }}
-    -
-        {{ indented_include("questions/template/human-graded-text-example.yml", 8) }}
-    -
-        {{ indented_include("questions/template/audio-output-example.yml", 8) }}
-    -
-        {{ indented_include("questions/template/python-complex-validation-test-code.yml", 8) }}
-    -
-        {{ indented_include("questions/template/non-ascii-choices.yml", 8) }}
-
-completion_text: |
-
-    # See you in class!
-
-    Thanks for completing the quiz.

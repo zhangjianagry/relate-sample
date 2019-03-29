@@ -41,7 +41,6 @@ chunks:
     id: exam_pointer
     rules:
     -
-        if_in_facility: test_center
         if_after: 2015-06-01
         weight: 200
 
@@ -53,4 +52,4 @@ chunks:
 
         # Welcome to the computer-based testing facility!
 
-        <a href="flow:exam-1" class="btn btn-default">Start exam &raquo;</a>
+        <a href="flow:quiz-test" class="btn btn-default">Start exam &raquo;</a>
