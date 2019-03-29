@@ -5,6 +5,7 @@ chunks:
     content: |
         <div class="well" markdown="1">
             <h3>Lecture2 learning path</h3>
+            
             <ol>
               <li>Maybe you can put a learning path here. Eg, first read some useful links then
           download the pdf, in the end, watch the video.</li>
@@ -14,7 +15,7 @@ chunks:
             </ol>
         </div>
         
-        <div class="well" markdown="1">
+        <div class="well" markdown="1" width="1140" height="600">
           <h3>Content<h3>
           <video id="catVideo" class="video-js vjs-default-skin"
             controls preload="auto" style="height: 100%;width: 100%;display: block;"

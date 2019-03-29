@@ -15,7 +15,7 @@ chunks:
             </ol>
         </div>
         
-        <div class="well" markdown="1">
+        <div class="well" markdown="1" width="1140" height="600">
           <h3>Content<h3>
           <video id="catVideo" class="video-js vjs-default-skin"
             controls preload="auto" width="800" height="600"
