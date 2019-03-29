@@ -9,9 +9,9 @@ chunks:
               <ol>
               <li>Maybe you can put a learning path here. Eg, first read some useful links then
           download the pdf, in the end, watch the video.</li>
-              <li>Learner can download the [lecture2.pdf](repocur:video/lecture2_wolf.pdf)</li>
-              <li>Learner can read the [document](https://www.djangoproject.com/)</li>
-              <li>After this video, you should complete this [test](flow:quiz-test).</li>
+              <li>Learner can download the <a src=repocur:video/lecture2_wolf.pdf>lecture2.pdf</a>)</li>
+                <li>Learner can read the <a src=https://www.djangoproject.com/>document</a></li>
+                <li>After this video, you should complete this [test](flow:quiz-test).</li>
               </ol>
             </div>
         </div>

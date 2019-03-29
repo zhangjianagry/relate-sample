@@ -6,12 +6,12 @@ chunks:
     content: |
         <div class="well">
             <h3>lecture1 learning path</h3>
-            <div markdown="1">
+            <div>
               <ol>
                 <li>Maybe you can put a learning path here. Eg, first read some useful links then
             download the pdf, in the end, watch the video.</li>
-                <li>Learner can download the [lecture1.pdf](repocur:video/lecture1_cat.pdf)</li>
-                <li>Learner can read the [document](https://www.djangoproject.com/)</li>
+                <li>Learner can download the <a src=repocur:video/lecture1_cat.pdf>lecture1.pdf</a>)</li>
+                <li>Learner can read the <a src=https://www.djangoproject.com/>document</a></li>
                 <li>Learner need to watch the video.</li>
               </ol>
             </div>
