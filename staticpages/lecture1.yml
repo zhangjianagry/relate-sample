@@ -1,5 +1,5 @@
 content: |
-    <div class="well" markdown="1">
+    <div class="well" markdown = "1">
       ### lecture1 learning path
       1. Maybe you can put a learning path here. Eg, first read some useful links then
       download the pdf, in the end, watch the video.
