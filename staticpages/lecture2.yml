@@ -3,8 +3,8 @@ chunks:
     title: "lecture2"
     id: welcome
     content: |
-        <div class="well" markdown = "1">
-            <h3>lecture1 learning path<h3>
+        <div class="well" markdown="1">
+            <h3>Lecture1 learning path<h3>
             <ol>
               <li>Maybe you can put a learning path here. Eg, first read some useful links then
           download the pdf, in the end, watch the video.</li>
@@ -14,7 +14,7 @@ chunks:
             </ol>
         </div>
         
-        <div class="well" markdown = "1">
+        <div class="well" markdown="1">
           <h3>Content<h3>
           <video id="catVideo" class="video-js vjs-default-skin"
             controls preload="auto" width="800" height="600"
@@ -25,8 +25,8 @@ chunks:
         </div>
         
 
-        <div class="well" mamarkdown = "1"rd>
-          <h3>Go to the [Next Lecture](staticpage:lecture3)</h3>
+        <div class="well" markdown="1">
+          <h3 markdown="1">Go to the [Next Lecture](staticpage:lecture3)</h3>
         </div>
 
   
