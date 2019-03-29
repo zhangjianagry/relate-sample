@@ -1,14 +1,15 @@
 content: |
+    <div class="well" markdown="1">
+      ### lecture1 learning path
+      1. Maybe you can put a learning path here. Eg, first read some useful links then
+      download the pdf, in the end, watch the video.
+      2. Learner can download the [lecture1.pdf](repocur:video/lecture1_cat.pdf)
+      3. Learner can 
+      4. After this video, you should complete this [test](flow:quiz-test).
+    </div>
+    
 
-    ### lecture1 description
-    * trainer need to edit this to support enough materials and method of learning
-    * you can download this [lecture1.pdf](repocur:video/lecture1_cat.pdf)
-    * eg. some useful links
-    * eg. some pdf and some links
-    * in the end, is the video
-    * After this video, you should complete this [test](flow:quiz-test).
-
-    ### Video
+    ### Content
     <video id="catVideo" class="video-js vjs-default-skin"
        controls preload="auto" width="800" height="600"
        poster="/course/course1/f/video/lecture1_cat.jpeg"
