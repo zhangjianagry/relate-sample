@@ -3,7 +3,7 @@ id: MultipleChoiceQuestion_2
 credit_mode: exact
 value: 1
 shuffle: False
-title: #MultipleChoiceQuestion
+title: Git command
 answer_explanation : |
     #some explanation write in markdown
     #means header
