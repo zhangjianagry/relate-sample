@@ -4,18 +4,20 @@ chunks:
     title: "lecture1"
     id: welcome
     content: |
-        <div class="well" markdown="1">
+        <div class="well">
             <h3>lecture1 learning path</h3>
-            <ol>
-              <li>Maybe you can put a learning path here. Eg, first read some useful links then
-          download the pdf, in the end, watch the video.</li>
-              <li>Learner can download the [lecture1.pdf](repocur:video/lecture1_cat.pdf)</li>
-              <li>Learner can read the [document](https://www.djangoproject.com/)</li>
-              <li>Learner need to watch the video.</li>
-            </ol>
+            <div markdown="1">
+              <ol>
+                <li>Maybe you can put a learning path here. Eg, first read some useful links then
+            download the pdf, in the end, watch the video.</li>
+                <li>Learner can download the [lecture1.pdf](repocur:video/lecture1_cat.pdf)</li>
+                <li>Learner can read the [document](https://www.djangoproject.com/)</li>
+                <li>Learner need to watch the video.</li>
+              </ol>
+            </div>
         </div>
         
-        <div class="well" markdown="1" width="1140" height="600">
+        <div class="well" markdown="1">
           <h3>Content<h3>
           <video id="catVideo" class="video-js vjs-default-skin"
             controls preload="auto" width="800" height="600"

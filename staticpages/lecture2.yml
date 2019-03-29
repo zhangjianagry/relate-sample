@@ -3,22 +3,23 @@ chunks:
     title: "lecture2"
     id: welcome
     content: |
-        <div class="well" markdown="1">
+        <div class="well" >
             <h3>Lecture2 learning path</h3>
-            
-            <ol>
+            <div markdown="1">
+              <ol>
               <li>Maybe you can put a learning path here. Eg, first read some useful links then
           download the pdf, in the end, watch the video.</li>
               <li>Learner can download the [lecture2.pdf](repocur:video/lecture2_wolf.pdf)</li>
               <li>Learner can read the [document](https://www.djangoproject.com/)</li>
               <li>After this video, you should complete this [test](flow:quiz-test).</li>
-            </ol>
+              </ol>
+            </div>
         </div>
         
-        <div class="well" markdown="1" width="1140" height="600">
+        <div class="well" markdown="1">
           <h3>Content<h3>
           <video id="catVideo" class="video-js vjs-default-skin"
-            controls preload="auto" style="height: 100%;width: 100%;display: block;"
+            controls preload="auto" width="800" height="600"
             poster="/course/course1/f/video/lecture2_wolf.jpeg"
             data-setup='{"playbackRates": [1, 1.3, 1.6, 2, 4]}'>
             <source src="/course/course1/f/video/lecture2_wolf.mp4" type='video/mp4' />
