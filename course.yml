@@ -41,8 +41,9 @@ chunks:
     id: exam_pointer
     rules:
     -
-        if_after: 2015-06-01
+        if_after: end_week 3
         weight: 200
+        shown: False
 
     -
         shown: False
@@ -50,6 +51,6 @@ chunks:
 
     content: |
 
-        # Welcome to the computer-based testing facility!
+        ### The examanation has began， Please complete as soon as possible.
 
         <a href="flow:quiz-test" class="btn btn-default">Start exam &raquo;</a>

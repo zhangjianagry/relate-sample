@@ -11,7 +11,8 @@ chunks:
         weight: 0
 
     content: |
-        ### [This is the first exam](flow:exam-1)
+        ### You need to complete all the exams.
+        <a href="flow:quiz-test" class="btn btn-default">Start exam1 &raquo;</a>
 
 -
     title: "Welcome to exam 2"
@@ -25,10 +26,10 @@ chunks:
         weight: 0
 
     content: |
-        ### [This is second exam](flow:quiz-test)
+        <a href="flow:quiz-test" class="btn btn-default">Start exam2 &raquo;</a>
 
 -
-    title: "Welcome to exam 1"
+    title: "Welcome to exam 3"
     id: exam3
     rules:
     -
@@ -39,6 +40,10 @@ chunks:
         weight: 0
 
     content: |
-        ### [This is the third exam](flow:quiz-test)
+        <a href="flow:quiz-test" class="btn btn-default">Start exam3 &raquo;</a>
+
+
+
+        
 
 
