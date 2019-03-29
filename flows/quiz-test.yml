@@ -7,7 +7,7 @@
 # separate files. This is optional, but conceivably useful.
 {% from "yaml-macros.yml" import indented_include %}
 
-title: "Sap cloud platform examination"
+title: "Sap Cloud Platform Examination"
 
 # The "|" character introduces a 'block literal', which means all text indented below
 # it is taken literally. The description property holds text marked up with 'Markdown'.
