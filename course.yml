@@ -12,35 +12,9 @@ chunks:
         weight: 0
 
     content: |
-        ###Course Description
-        <div class = "well" style="font-family: Microsoft YaHei;font-size:16px">
-        <dd>&nbsp;&nbsp;&nbsp;· This is a basic subject on sap cloudfoundy. It will begin at 3.1 and end at 4.30</dd>
-        <dd>&nbsp;&nbsp;&nbsp;· Need very specific about this topic</dd>
-        </div>
+        ### Prerequisites
 
         ### Course Content
-
-        <div class="well" markdown="1">
-        <dl>
-            <dt class = "lecture" style="font-family: Microsoft YaHei;font-size:18px">&nbsp;&nbsp;[Lecture 1 by trainer1: The topic about cats](staticpage:lecture1)</dt>
-            <dd class = "desc" style="font-family: Microsoft YaHei;font-size:16px">&nbsp;&nbsp;&nbsp;· Specific features about this topic, need trainer to support</dd>
-            <dd class = "desc" style="font-family: Microsoft YaHei;font-size:16px">&nbsp;&nbsp;&nbsp;· Need very specific about this topic</dd>
-            <dt class = "lecture" style="font-family: Microsoft YaHei;font-size:18px">&nbsp;&nbsp;[Lecture 2 by trainer2: The topic about wolves](staticpage:lecture2)</dt>
-            <dd class = "desc" style="font-family: Microsoft YaHei;font-size:16px">&nbsp;&nbsp;&nbsp;· Specific features about this topic, need trainer to support</dd>
-            <dd class = "desc" style="font-family: Microsoft YaHei;font-size:16px">&nbsp;&nbsp;&nbsp;· Need very specific about this topic</dd>
-        </dl>
-        </div>
-        
-        ###Examination
-        <div class = "well" style="font-family: Microsoft YaHei;font-size:16px">
-            <dd>&nbsp;&nbsp;&nbsp;· Go to the [exam](flow:quiz-test)</dd>
-        </div>
-        
-
-
-        <div class = "well">
-            Go back to the <a href="https://47.102.159.111">courses pages</a>
-        </div>
 
 -
     title: "Exam pointer"
