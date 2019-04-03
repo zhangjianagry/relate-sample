@@ -33,5 +33,5 @@ chunks:
     content: |
 
         ### The examanation has began， Please complete as soon as possible.
-
+        [Lecture 2 : The topic about wolves](staticpage:lecture2)
         <a href="flow:quiz-test" class="btn btn-default">Start exam &raquo;</a>
