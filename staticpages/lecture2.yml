@@ -3,38 +3,7 @@ chunks:
     title: "lecture2"
     id: welcome
     content: |
-        <div class="well" >
-            <h5>Lecture description</h5>
-            <div>&nbsp&nbsp&nbsp&nbspThis is topic about wolf, It is important.</div>
-            <h5>Lecuture learning path</h5>
-            <div markdown="1">
-              <ol>
-              <li>Maybe you can put a learning path here. Eg, first read some useful links then
-          download the pdf, in the end, watch the video.</li>
-              <li>Learner can download the <a href=repocur:video/lecture2_wolf.pdf>lecture2.pdf</a></li>
-                <li>Learner can read the <a href=https://www.djangoproject.com/>document</a></li>
-              </ol>
-
-              After this lecture, you will gain some skills.
-
-            </div>
-        </div>
-        
-        <div class="well" markdown="1">
-          <h3>Content<h3>
-          <video id="catVideo" class="video-js vjs-default-skin"
-            controls preload="auto" width="800" height="600"
-            poster="/course/course1/f/video/lecture2_wolf.jpeg"
-            data-setup='{"playbackRates": [1, 1.3, 1.6, 2, 4]}'>
-            <source src="/course/cs111/f/video/lecture2_wolf.mp4" type='video/mp4' />
-        </video>
-        </div>
-        
-
-        <div class="well" markdown="1">
-          <h3 markdown="1">Go to the [Next Lecture](staticpage:lecture3)</h3>
-        </div>
-
+        [pdf](repo:/pdfs/lecture2_sample.pdf)
   
     
 
