@@ -3,7 +3,7 @@ chunks:
     title: "lecture2"
     id: welcome
     content: |
-        [pdf](repo:/pdfs/lecture2_sample.pdf)
+        [pdf](repo:pdfs/lecture2_sample.pdf)
   
     
 
